@@ -12,3 +12,17 @@ references:
   license = {AGPL-3.0}
 }
 ```
+```
+@misc{ garbage-classification-3_dataset,
+    title = { GARBAGE CLASSIFICATION 3 Dataset },
+    type = { Open Source Dataset },
+    author = { Material Identification },
+    howpublished = { \\url{ https://universe.roboflow.com/material-identification/garbage-classification-3 } },
+    url = { https://universe.roboflow.com/material-identification/garbage-classification-3 },
+    journal = { Roboflow Universe },
+    publisher = { Roboflow },
+    year = { 2022 },
+    month = { mar },
+    note = { visited on 2023-01-02 },
+}
+```
