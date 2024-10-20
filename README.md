@@ -11,8 +11,7 @@ references:
   orcid = {0000-0001-5950-6979, 0000-0002-7603-6750, 0000-0003-3783-7069},
   license = {AGPL-3.0}
 }
-```
-```
+
 @misc{ garbage-classification-3_dataset,
     title = { GARBAGE CLASSIFICATION 3 Dataset },
     type = { Open Source Dataset },
